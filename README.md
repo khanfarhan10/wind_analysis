@@ -6,6 +6,8 @@ Authors - Farhan Hai Khan, Tannistha Pal, Suvradip Ghosh.
 
 All rights reserved.
 
+All the python notebooks were run on Google Colaboratory.
+
 We acknowledge Chittal Patel on kaggle for providing the basic code that inspired this research.
 
 [@chittalpatel](https://www.kaggle.com/chittalpatel)
