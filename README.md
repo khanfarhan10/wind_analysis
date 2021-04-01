@@ -2,7 +2,7 @@
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=plastic&logo=Jupyter)](https://jupyter.org/try)
 [![Language Python 3.7](https://img.shields.io/badge/Language-Python%203.7-red?style=plastic&logo=Python)](https://www.python.org/)
 [![Open in GitHub1s](https://img.shields.io/badge/View%20Code%20Online-VSCode%20GitHub1s-green?style=plastic&logo=visual-studio-code)](https://github1s.com/khanfarhan10/wind_analysis)
-[![DOI:10.1109/IEMRE52042.2021.9386754](https://zenodo.org/badge/DOI/10.1109/IEMRE52042.2021.9386754.svg)](https://doi.org/10.1109/IEMRE52042.2021.9386754)
+[![DOI:10.1109/IEMRE52042.2021.9386754](https://img.shields.io/badge/DOI-DOI%3A10.1109%2FIEMRE52042.2021.9386754-blue?style=plastic)](https://doi.org/10.1109/IEMRE52042.2021.9386754)
 # [Wind Energy : A Practical Power Analysis Approach](https://ieeexplore.ieee.org/document/9386754 )
 
 This repository provides the source code for the visualizations and calculations in the research paper **Wind Energy : A Practical Power Analysis Approach**.
